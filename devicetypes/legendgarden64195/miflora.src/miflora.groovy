@@ -43,10 +43,10 @@ metadata {
         capability "Temperature Measurement"
         capability "legendgarden64195.moistureMeasurement"
         capability "Illuminance Measurement"
+        capability "streamorange58819.fertility"
 
                
         attribute "versions", "string"
-        attribute "fertility", "number"
         attribute "lastCheckin", "Date"
         
         
